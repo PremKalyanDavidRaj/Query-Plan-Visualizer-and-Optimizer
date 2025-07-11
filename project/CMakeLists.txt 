@@ -1,0 +1,17 @@
+# CMakeLists.txt
+cmake_minimum_required(VERSION 3.10)
+project(QueryPlanVisualizerAndOptimizer)
+
+set(CMAKE_CXX_STANDARD 14)
+
+# Add source files (include the new C++ files here)
+add_executable(QueryPlanVisualizerAndOptimizer
+    src/main.cpp
+    src/query_optimizer.cpp     # Include your new C++ file here
+    src/query_plan_parser.cpp   # Include your new C++ file here
+)
+
+# Include directories (if needed for header files)
+include_directories(include)
+
+# Link libraries (if needed)
