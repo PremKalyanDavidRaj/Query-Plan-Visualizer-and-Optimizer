@@ -92,13 +92,3 @@ To set up the project locally, follow these steps:
 
 4. **Export Plans**: After comparing the naive and optimized execution plans, you can export the comparison as a JSON file for further analysis or sharing.
 
-## 👨‍💻 Contributing
-
-We welcome contributions! If you'd like to contribute, feel free to fork the repository and submit pull requests. Please follow the steps below:
-
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Make your changes and test thoroughly.
-4. Submit a pull request.
-
-````
