@@ -35,8 +35,7 @@ Inspired by network routing heuristics:
 1. Run a query in PostgreSQL with `EXPLAIN (ANALYZE, VERBOSE)`
 2. Copy the output to a file `plan.txt`
 3. Run the parser:
-```bash
-./qpv plan.txt
+```bash ./qpv plan.txt
 
 Author
 Prem Kalyan David Raj
