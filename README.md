@@ -37,3 +37,7 @@ Inspired by network routing heuristics:
 3. Run the parser:
 ```bash
 ./qpv plan.txt
+
+Author
+Prem Kalyan David Raj
+MS in Information Technology
